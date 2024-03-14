@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    display: flex;
+}
+
+h1:hover{
+    transition: all 0.5s;
+    transform: scale(1.05);
+}
+
